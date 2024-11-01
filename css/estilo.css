@@ -1,0 +1,61 @@
+.umbigoThis_show {
+	padding:10px 0 0 0;
+	margin:0;
+}
+
+.umbigoThis_show_link {
+	background:url(../imagens/social.png) left no-repeat;
+	padding:3px 0 3px 18px;
+}
+
+.umbigoThis_pop {
+	background: #fff;
+	border: 1px solid #d1d7e7;
+	display: none;
+	position: absolute;
+	width: 345px;
+	z-index: 999;
+	opacity:0.95;
+	-moz-opacity: 0.95;
+	filter: alpha(opacity=95);
+	padding: 3px 5px 2px 5px;
+	margin:0;
+}
+
+.umbigoThis_fechar {
+	margin:0;
+	padding:0;
+	}
+
+.umbigoThis_fechar .umbigoThis_fechar_desc {
+	margin:3px;
+	padding:0;
+}
+
+.umbigoThis_fechar_link {
+	padding-right:18px;
+	line-height:20px;
+	background:url(../imagens/fechar.png) right no-repeat;
+	float:right;
+}
+
+.umbigoThis_links {
+	clear:both;
+	}
+
+.umbigoThis_links a {
+	display: block;
+	height: 24px;
+	width:150px;
+	float:left;
+	padding: 4px 0 0 22px;
+	vertical-align: middle;
+}
+
+.umbigoThis_links a:hover {
+	background-color:#e4e4e4;
+}
+
+.umbigoThis_limpa {
+	clear:both;
+	}

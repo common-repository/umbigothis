@@ -1,0 +1,12 @@
+.umbigoThis_icones {
+	margin:0;
+	padding:10px 5px 5px 0;
+	}
+
+.umbigoThis_icone img{
+	border:2px solid #fff;
+	}
+
+.umbigoThis_icone:hover img{
+	border-color:#63879e;
+	}
